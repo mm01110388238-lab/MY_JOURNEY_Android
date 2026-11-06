@@ -1,0 +1,19 @@
+{
+  "name": "MY JOURNEY",
+  "short_name": "MY JOURNEY",
+  "description": "رحلتك نحو هدفك",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#08111f",
+  "theme_color": "#08111f",
+  "dir": "rtl",
+  "lang": "ar",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
